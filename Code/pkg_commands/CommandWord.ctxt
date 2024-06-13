@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=commandString\ pCommand
+comment0.target=CommandWord(java.lang.String,\ Command)
+comment0.text=\r\n\ initialise\ avec\ la\ commande\ correspondante.\r\n\ @param\ commandWord\ la\ commande\ string.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ @return\ la\ commande\ en\ tant\ que\ String\r\n
+comment2.params=
+comment2.target=Command\ toCommand()
+comment2.text=\r\n\ @return\ la\ commande\r\n
+numComments=3

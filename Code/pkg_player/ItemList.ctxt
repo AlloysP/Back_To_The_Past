@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ItemList()
+comment0.text=\r\n\ Constructeur\ de\ la\ classe\ ItemList,\ initialise\ entre\ autre\ la\ HashMap\ contenant\ tous\ les\ objets\ du\ jeu\r\n
+comment1.params=pNomItem\ pItem
+comment1.target=void\ mettreItem(java.lang.String,\ Item)
+comment1.text=\r\n\ Rajoute\ l'item\ pass\u00E9\ en\ param\u00E8tre\ dans\ la\ liste\ des\ items.\r\n
+comment2.params=pNomItem
+comment2.target=Item\ retirerItem(java.lang.String)
+comment2.text=\r\n\ Retourne\ l'item\ voulu.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getItemsStringListe()
+comment3.text=\r\n\ Retourne\ une\ liste\ de\ tous\ les\ items\ pr\u00E9sents\ dans\ la\ itemList\r\n
+comment4.params=pNomItem
+comment4.target=boolean\ VerifItem(java.lang.String)
+comment4.text=\r\n\ V\u00E9rifie\ si\ la\ key\ pass\u00E9e\ en\ param\u00E8tre\ est\ pr\u00E9sente\ dans\ la\ HashMap\r\n
+comment5.params=pNomItem
+comment5.target=void\ removeItem(java.lang.String)
+comment5.text=\r\n\ Enl\u00E8ve\ l'item\ voulu\ de\ la\ liste\ des\ items\r\n
+comment6.params=
+comment6.target=java.util.HashMap\ getHashMapItemList()
+comment6.text=\r\n\ Retourne\ la\ HashMap\ de\ ItemList\r\n
+comment7.params=
+comment7.target=void\ removeItemList()
+comment7.text=\r\n\ Recr\u00E9e\ l'ItemList\r\n
+numComments=8

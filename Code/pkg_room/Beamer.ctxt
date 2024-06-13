@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pNomBeamer\ pDescriptionBeamer\ pPoidsBeamer
+comment0.target=Beamer(java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ Constructeur\ de\ la\ classe,\ il\ instancie\ le\ beamer\ en\ cr\u00E9ant\ un\ "item"\ (ou\ plutot\ une\ sorte\ d'item)\ \r\n\ poss\u00E9dant\ un\ attribut\ room.\r\n
+comment1.params=
+comment1.target=Room\ getBeamerRoom()
+comment1.text=\r\n\ geteur\ pour\ aBeamerRoom\r\n
+comment2.params=pBeamerRoom
+comment2.target=void\ setBeamerRoom(Room)
+comment2.text=\r\n\ seteur\ pour\ aBeamerRoom\r\n
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment0.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment0.text=\ \r\n\ \ Fais\ retourner\ le\ personnage\ dans\ la\ salle\ pr\u00E9c\u00E9dente,\ c'est-\u00E0-dire\ la\ salle\ dont\ il\ vient.\r\n
+numComments=1

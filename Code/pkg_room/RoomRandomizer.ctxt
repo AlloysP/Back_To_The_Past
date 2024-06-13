@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=pListeRooms\ pNbRoom\ pHashMapDesRooms
+comment0.target=RoomRandomizer(Room[],\ int,\ java.util.HashMap)
+comment0.text=\r\n\ Constructeur\ ayant\ pour\ but\ d'initialiser\ les\ attributs\ static.\r\n
+comment1.params=pListeRoom
+comment1.target=void\ setListeRooms(Room[])
+comment1.text=\r\n\ \ Sert\ \u00E0\ obtenir\ la\ liste\ des\ rooms.\r\n
+comment2.params=pNbRoom
+comment2.target=void\ setNbRoom(int)
+comment2.text=\r\n\ \ D\u00E9finit\ le\ nombre\ de\ Rooms\ pr\u00E9sentes\ dans\ la\ liste\ des\ Rooms.\r\n
+comment3.params=
+comment3.target=Room\ findRandomRoom()
+comment3.text=\r\n\ Renvoie\ une\ des\ Rooms\ de\ la\ liste\ choisie\ au\ hasard,\ sauf\ si\ commande\ alea\ utilis\u00E9e\r\n
+comment4.params=pStringTest
+comment4.target=void\ setStringTest(java.lang.String)
+numComments=5

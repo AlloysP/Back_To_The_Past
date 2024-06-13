@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GoCommand()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GoCommand\r\n
+comment1.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment1.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment1.text=\ \r\n\ Fonctionne\ avec\ la\ commande\ go,\ c'est\ pour\ aller\ dans\ une\ direction\ voulue\ qui\ sera\ \u00E9crite\ dans\ la\ deuxi\u00E8me\ commande.\r\n\ S'il\ y\ a\ une\ pi\u00E8ce\ dans\ la\ direction\ voule\ on\ change\ de\ pi\u00E8ce\ et\ sinon\ affiche\ un\ message\ d'erreur.\ \r\n
+numComments=2

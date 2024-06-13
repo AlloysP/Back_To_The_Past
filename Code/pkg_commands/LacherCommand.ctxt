@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LacherCommand()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RegarderCommand\r\n
+comment1.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment1.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment1.text=\ \r\n\ Le\ joueur\ lache\ un\ objet\ pr\u00E9sent\ dans\ son\ inventaire\r\n
+numComments=2

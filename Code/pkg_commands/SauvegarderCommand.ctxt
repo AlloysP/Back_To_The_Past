@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment0.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment0.text=\ \r\n\ \ Sauvegarde\ le\ jeu\ dans\ le\ fichier\ texte\ Sauvegarde.txt\ situ\u00E9\ \u00E0\ la\ racine\ du\ jeu\r\n
+numComments=1

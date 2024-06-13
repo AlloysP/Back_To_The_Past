@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Parser()
+comment0.text=\r\n\ Cr\u00E9e\ un\ nouveau\ Parser\r\n\ Constructeur\ par\ defaut\ qui\ cree\ les\ 2\ objets\ prevus\ pour\ les\ attributs\r\n
+comment1.params=pInputLine
+comment1.target=pkg_commands.Command\ getCommand(java.lang.String)
+comment1.text=\r\n\ Obtient\ une\ nouvelle\ commande\ de\ l'utilisateur.\ La\ commande\ est\ lue\ en\ parsant\ l'"InputLine".\r\n\ @return\ La\ prochaine\ commande\ de\ l'utilisateur.\r\n
+comment2.params=
+comment2.target=java.lang.String\ showCommands()
+comment2.text=\r\n\ Affiche\ une\ liste\ des\ commandes\ valides.\r\n\ @return\ \ Une\ liste\ des\ commandes\ valides.\r\n
+numComments=3

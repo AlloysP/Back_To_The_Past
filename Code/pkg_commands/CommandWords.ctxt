@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CommandWords()
+comment0.text=\r\n\ Constructeur\ par\ defaut\ -\ Initialise\ toutes\ les\ commandes.\r\n
+comment1.params=pString
+comment1.target=boolean\ isCommand(java.lang.String)
+comment1.text=\r\n\ Verifie\ si\ une\ String\ donnee\ fait\ partie\ des\ commandes\ valides.\ \r\n\ @param\ pString\ la\ String\ a\ tester\r\n\ @return\ true\ si\ pString\ est\ une\ comande\ valide,\ false\ sinon\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandList()
+comment2.text=\r\n\ Retourne\ une\ string\ de\ toutes\ les\ commandes\ valides\r\n
+comment3.params=commandWord
+comment3.target=commands.Command\ getCommandWord(java.lang.String)
+comment3.text=\r\n\ Retourne\ le\ CommandWord\ correspondant\ \u00E0\ la\ String\ entr\u00E9e\ en\ param\u00E8tre\ de\ la\ HashMap\r\n
+comment4.params=pCommandWord
+comment4.target=java.lang.String\ getStringCommandWord(commands.CommandWord)
+comment4.text=\r\n\ Retourne\ la\ String\ associ\u00E9e\ \u00E0\ l'objet\ CommandWord\ voulu\ dans\ la\ HashMap\r\n
+comment5.params=
+comment5.target=void\ cr\u00E9ationValidCommandsInverse()
+comment5.text=\r\nRempli\ la\ HashMap\ permettant\ d'acc\u00E9der\ aux\ Keys\ de\ aValidCommands\ gr\u00E2ce\ \u00E0\ ses\ valeurs.\r\n
+comment6.params=word
+comment6.target=commands.Command\ get(java.lang.String)
+comment6.text=\r\n\r\n
+numComments=7

@@ -1,0 +1,60 @@
+ramasser MagicCookie
+manger MagicCookie
+ramasser dfbnrbhf
+ramasser
+manger
+ramasser Chapeau
+aller ouest
+selectionner Charle
+donner Chapeau
+donner vegbhb
+inventaire Charle
+aller est
+inventaire Charle
+aller est
+ramasser beamer
+charger beamer
+aller ouest
+aller ouest
+selectionner Charle
+prendre Chapeau
+inventaire
+utiliser beamer
+help
+regarder
+look
+save a
+aller ouest
+charger a
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour ber
+ramasser beamer
+charger beamer
+aller ouest
+aller ouest
+selectionner Charle
+prendre Chapeau

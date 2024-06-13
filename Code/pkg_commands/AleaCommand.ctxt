@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AleaCommand()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RegarderCommand\r\n
+comment1.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment1.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment1.text=\ \r\n\ Si\ le\ mode\ test\ est\ activ\u00E9\ la\ m\u00E9thode\ donne\ \u00E0\ la\ transportRoom\ la\ salle\ vers\ laquelle\ il\ faut\ aller\ et\ quand\r\n\ \ il\ n'y\ a\ pas\ de\ second\ mot\ \u00E7a\ remet\ le\ t\u00E9l\u00E9porteur\ en\ mode\ al\u00E9atoire\r\n
+numComments=2

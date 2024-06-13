@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\r\n\ Cr\u00E9e\ le\ jeu\ et\ initialise\ la\ map\ des\ "salles".\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

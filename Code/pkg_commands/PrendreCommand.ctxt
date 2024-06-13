@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment0.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment0.text=\ \r\n\ \ Prend\ l'item\ pass\u00E9\ en\ param\u00E8tre\ dans\ l'inventaire\ du\ PNJ\ s\u00E9lectionn\u00E9\r\n
+numComments=1

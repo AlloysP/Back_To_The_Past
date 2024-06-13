@@ -1,0 +1,54 @@
+vFuturProche
+3
+ClefModerneEst
+Ouvre la porte Est de l'époque Moderne
+0.1
+Chapeau
+Chapeau usé
+5.5
+beamer
+beamer
+1.0
+v19
+1
+ballon
+ballon usé
+1.0
+vAnomalie
+1
+ballon
+ballon usé
+1.0
+vFuturLointain
+1
+ballon
+ballon usé
+1.0
+vFuturProche
+1
+ballon
+ballon usé
+1.0
+vPrehistoire
+2
+PotionDeResurection
+Potion pour ramener une personne à la vie
+0.2
+ballon
+ballon usé
+1.0
+vPresent
+2
+Casquette
+Casquette usée
+9.0
+MachineTemporelle
+MachineTemporelle usée
+11.0
+vTeleport
+0
+vTempsModernes
+1
+ballon
+ballon usé
+1.0

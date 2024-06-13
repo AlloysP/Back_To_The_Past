@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment0.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment0.text=\ \r\n\ Test\ les\ diff\u00E9rentes\ commandes\ pr\u00E9sentes\ dans\ le\ fichier\ .txt\ donn\u00E9\r\n
+numComments=1

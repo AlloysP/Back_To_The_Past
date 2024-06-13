@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Command()
+comment0.text=\r\n\ \r\n\ Cr\u00E9e\ un\ objet\ command.\ Le\ premier\ et\ le\ second\ mots\ doivent\ etre\ appliqu\u00E9s,\ mais\ un\ ou\ les\ deux\ peuvent\ etre\ null.\ \r\n\ La\ commande\ devrait\ alors\ etre\ null\ pour\ indiquer\ que\ c'\u00E9tait\ une\ commande\ non\ reconnue\ du\ jeu.\r\n
+comment1.params=
+comment1.target=CommandWord\ getCommandWord()
+comment1.text=\r\n\ Return\ le\ premier\ mot\ de\ cette\ commande.\ Si\ la\ commande\ n'est\ pas\ comprise,\ le\ r\u00E9sultat\ est\ null.\r\n
+comment2.params=pCommandWord
+comment2.target=void\ setCommandWord(CommandWord)
+comment2.text=\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Return\ le\ second\ mot\ de\ la\ commande.\ Returns\ null\ s'il\ n'y\ a\ pas\ de\ second\ mot.\r\n
+comment4.params=secondWord
+comment4.target=void\ setSecondWord(java.lang.String)
+comment4.text=\r\n\ \r\n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ V\u00E9rifie\ si\ la\ commande\ a\ \u00E9t\u00E9\ comprise.\r\n
+comment6.params=
+comment6.target=boolean\ hasSecondWord()
+comment6.text=\r\n\ Return\ true\ si\ la\ commande\ a\ un\ second\ mot.\r\n
+comment7.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment7.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment7.text=\r\n\ M\u00E9thode\ sans\ corps\ qui\ sert\ \u00E0\ obliger\ toutes\ les\ nouvelles\ classes\ d'overide\ cette\ m\u00E9thode\ qui\ remplacera\r\n\ le\ corps\ des\ diff\u00E9rentes\ m\u00E9thodes\ qui\ \u00E9taient\ pr\u00E9sentent\ dans\ GameEngine.\r\n\ Il\ y\ a\ 4\ param\u00E8tres\ afin\ que\ les\ m\u00E9thodes\ ayent\ un\ acc\u00E8s\ facil\ \u00E0\ tous\ les\ objets\ n\u00E9cessaires\r\n\ \u00E0\ leur\ fonctionnement.\r\n
+numComments=8

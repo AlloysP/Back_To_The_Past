@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment0.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment0.text=\r\n\ "Quit"\ was\ entered.\ Check\ the\ argument\ to\ see\ whether\r\n\ we\ really\ quit\ the\ game.\ Return\ true,\ if\ we\ should\ quit,\ false\r\n\ otherwise.\r\n
+numComments=1

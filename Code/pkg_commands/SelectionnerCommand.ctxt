@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment0.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment0.text=\ \r\n\ S\u00E9lectionne\ grace\ \u00E0\ une\ String\ des\ PNJ\ ou\ autre\ afin\ d'utiliser\ certaines\ commandes.\r\n
+numComments=1

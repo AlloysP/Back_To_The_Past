@@ -1,0 +1,14 @@
+aller ouest
+aller est
+aller sud
+utiliser ClefModerneEst
+aller ouest
+aller est
+aller est
+aller ouest
+aller nord
+aller haut
+aller bas
+aller est
+aller bas
+aller haut

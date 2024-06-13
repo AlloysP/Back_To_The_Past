@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment0.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment0.text=\ \r\n\ Charge\ le\ beamer\ en\ lui\ faisant\ m\u00E9moriser\ la\ salle\ actuelle\ ou\ charge\ une\ sauvegarde\r\n
+numComments=1

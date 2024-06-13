@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MangerCommand()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RegarderCommand\r\n
+comment1.params=pJoueur\ pGameEngine\ pParser\ pCommand
+comment1.target=void\ execute(pkg_player.Player,\ pkg_game.GameEngine,\ pkg_game.Parser,\ Command)
+comment1.text=\ \r\n\ Permet\ de\ manger\ afin\ de\ ne\ plus\ avoir\ faim\ ou\ poru\ pouvoir\ porter\ plus\ d'item\ gr\u00E2ce\ \u00E0\ un\ Cookie\ magique\r\n
+numComments=2

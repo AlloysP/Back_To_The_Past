@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=pNomTransporterRoom\ pDescription\ pImage
+comment0.target=TransporterRoom(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TransporterRoom\r\n
+comment1.params=pDirection
+comment1.target=Room\ getExit(java.lang.String)
+comment1.text=\r\n\ red\u00E9finition\ de\ la\ m\u00E9thode\ getExit\ pour\ faire\ appel\ \u00E0\ la\ m\u00E9thode\ findRandomRoom\ quand\ le\r\n\ joueur\ veut\ quitter\ la\ room.\r\n
+comment2.params=pListeRoom\ pHashMapDesRooms
+comment2.target=void\ setRoomRandomizer(Room[],\ java.util.HashMap)
+comment2.text=\r\n\ \ m\u00E9thode\ qui\ permet\ d'inialiser\ les\ attributs\ static\ de\ la\ classe\ RoomRandomizer\r\n
+comment3.params=pStringTest
+comment3.target=void\ setStringTestRandomizer(java.lang.String)
+comment3.text=\r\n\ \ Donne\ une\ valeur\ \u00E0\ l'attribut\ aStringTest\ de\ la\ classe\ RoomRandomizer\r\n
+numComments=4
