@@ -1,4 +1,2 @@
-<h1>Back To The Past</h1>
-Jeu textuel avec interface graphique sur le thème du voyage dans le temps.
-<br>
+Back To The Past est un jeu textuel sur le thème du voyage dans le temps et est muni d'une interface graphique. 
 L'exécutable se trouve à la racine du projet.
